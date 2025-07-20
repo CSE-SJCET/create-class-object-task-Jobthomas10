@@ -7,6 +7,7 @@ class Student{
          System.out.println("student name:"+name);
          System.out.println("rollno:"+rollno);
          System.out.println("grade"+grade);
+    }
 
 }
 public class Main {
